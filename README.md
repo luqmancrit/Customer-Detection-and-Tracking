@@ -15,7 +15,7 @@ You may download both files from: https://github.com/AlexeyAB/darknet#pre-traine
 
 ![image](https://user-images.githubusercontent.com/79583429/214852877-351b2610-9685-4a4e-bacf-2a4e12977295.png)
 
-## Arduino UNO integration Concern
+## 📍 Arduino UNO Integration Concern
 Make comment '#' at line 37, 130, 136 to cancel Arduino Serial integration
 
 
